@@ -5,3 +5,6 @@ Let's analyze the length of Americans' full names. This project to create Americ
 1. 2020년 미국인의 성과 이름(남자 여자 별도) 순위(이름의 중복수가 많은 랭킹)를 활용하여 미국인 full name의 모든 조합을 만든 후,
 2. full name의 길이의 평균, 분산, 분포와 같은 통계 수법을 활용해서 분석한다.
 
+## Data overview
+### input data : US_name_list.csv
+### output data : US_name_list_total_length.csv
